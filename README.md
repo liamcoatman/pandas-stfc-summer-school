@@ -1,10 +1,6 @@
-# The Data Science Toolkit: Introduction to Python, Numpy and Pandas
+# Python: Data Science in Pandas and NumPy
 
-Teaching materials for Data Science Crash course at UCL (02/10/2017)
-
-## Data
-
-Before running the notebook you will need to download the metor data set, which is available [here](https://www.kaggle.com/nasa/meteorite-landings/data).
+Teaching materials for STFC summer school (17/07/2018)
 
 ## Get in touch
 
